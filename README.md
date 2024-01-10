@@ -34,6 +34,19 @@ Name of the project: Freedom views
 List of team members: Collins Godswill Ahuchaogu
 Description of the project: This is intended to be a free live streaming website; a full description is in the next slide.
 Learning objectives: To master the art of anchoring a live streaming site on AWS
+THE FINAL SUBMISSION:
+My Methodology on creating a live streaming website
+•	The Project Idea: The idea behind this project, ultimately is to build/create a website that allows viewers to watch movies online for free, gain traffic, and later place product pricing on some on-demand views. Here, prospective customers will enjoy free videos online, then when they demand for current movies; we place a $3-5 monthly price on it.
+•	The project aims & Mission: The aim and mission of this project is essentially to entertain the public all for free, then for special choice of movies, it will go for a token. Essentially, this is aimed at providing cheaper means of entertainment to the public.
+•	Choosing a website Builder: The choice of a web builder is a critical and crucial one, as on an initial plan, it was to be done on an AWS server, where I was to register an AWS account and use Amazon S3 (Simple Storage Service) for storage of the files. Then I’ll create a bucket for storage of the videos, then use the Amazon CloudFront (Content Delivery Network) to deliver the video globally, hence, create a distribution network. Next is to use the Use MediaConvert or Elastic Transcoder to encode my videos into different formats suitable for streaming, use the AWS lambda, API gateway and DynamoDB to manage users online  etc. But considering the cost and timeframe, I will save this project setup in my git hub account, make proper financial preparations and plans and lunch it later on. For now I use maestro.tv as a lunch platform, where I can register my domain name, configure my site to what I want, and publish my videos all for free, though without the live-stream.
+•	Configuring a video hosting site: As stated earlier, the video hosting site is configured on the maestro.tv site based on the huge financial cost involved in using the AWS for now.
+•	Webpage Strategy & subdomain: The subdomain is hosted on the maestro.tv site and it give the ability to use APIs like youtube and also I can create a bucket where my local videos can be uploaded from my local machine to the bucket for viewing.
+•	Content building and uploads: Based on the limited service given for the free version, I can create a movie channel, build content both from other plugins/links and from my local machine and all the videos will be available for viewers anytime they login to my channel. They will just have to register for free to my channel, then watch movies.
+•	Publishing and deployment: After the content was built, it was published from the newly created channel that I created and it currently available on https://maestro.tv/freedomviews.
+•	Functionality and testing: The site has been tested and it is functioning, running well at the moment, though plans are in progress to include the streaming option also.
+•	Finances, Pricing and monetization: As the customer base grows, I intend to generate income by means of adverts or providing specialized viewing option as stated erlier.
+•	Further Developments: In the future, I will move on to create plugins on social media sites then later lunch freedom views in AWS as planned.
+•	Thanks for YOUR your time.
 
 
 Contact: collins.ahuchaogu@gmail.com
